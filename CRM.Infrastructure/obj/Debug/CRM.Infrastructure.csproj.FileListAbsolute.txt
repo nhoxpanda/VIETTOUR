@@ -1,0 +1,566 @@
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\CRM.Infrastructure.dll.config
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\CRM.Infrastructure.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\CRM.Infrastructure.pdb
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\CRM.Core.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\CRM.Enum.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\EntityFramework.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\CRM.Core.pdb
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\CRM.Enum.pdb
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\EntityFramework.xml
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\Newtonsoft.Json.xml
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.csprojResolveAssemblyReference.cache
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.Initial.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs1.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs2.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs3.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs4.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs5.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs6.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs7.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs8.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs9.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs10.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs11.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs12.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs13.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs14.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs15.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs16.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs17.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs18.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs19.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs20.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs21.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs22.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs23.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs24.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs25.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs26.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs27.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs28.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs29.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs30.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs31.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs32.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs33.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs34.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs35.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs36.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs37.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs38.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs39.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.csproj.GenerateResource.Cache
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.pdb
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs40.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs41.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs42.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs43.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs44.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs45.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs46.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs47.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs48.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs49.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs50.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs51.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs52.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs53.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs54.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs55.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs56.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs57.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs58.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs59.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs60.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs61.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs62.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs63.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs631.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs64.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs65.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs651.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs66.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs67.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs68.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs69.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs70.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs71.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs72.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs73.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs731.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs74.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs76.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\Microsoft.Owin.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\Microsoft.Owin.Security.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\Owin.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\Microsoft.Owin.xml
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\Microsoft.Owin.Security.xml
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\Humanizer.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\Humanizer.pdb
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\Humanizer.xml
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\af\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\ar\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\bg\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\bn-BD\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\cs\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\da\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\de\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\el\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\es\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\fa\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\fi-FI\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\fr\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\fr-BE\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\he\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\hr\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\hu\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\id\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\it\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\ja\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\nb\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\nb-NO\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\nl\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\pl\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\pt\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\ro\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\ru\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\sk\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\sl\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\sr\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\sr-Latn\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\sv\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\tr\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\uk\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\uz-Latn-UZ\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\vi\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\zh-CN\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\zh-Hans\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\bin\Debug\zh-Hant\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs77.resources
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs78.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.csprojResolveAssemblyReference.cache
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.Initial.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs1.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs2.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs3.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs4.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs5.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs6.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs7.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs8.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs9.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs10.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs11.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs12.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs13.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs14.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs15.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs16.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs17.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs18.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs19.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs20.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs21.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs22.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs23.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs24.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs25.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs26.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs27.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs28.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs29.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs30.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs31.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs32.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs33.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs34.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs35.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs36.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs37.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs38.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs39.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs40.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs41.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs42.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs43.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs44.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs45.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs46.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs47.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs48.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs49.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs50.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs51.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs52.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs53.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs54.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs55.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs56.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs57.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs58.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs59.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs60.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs61.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs62.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs63.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs631.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs64.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs65.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs651.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs66.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs67.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs68.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs69.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs70.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs71.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs72.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs73.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs731.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs74.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs76.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs77.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs78.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.csproj.GenerateResource.Cache
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.pdb
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\CRM.Infrastructure.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\CRM.Infrastructure.pdb
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\CRM.Core.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\CRM.Enum.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\EntityFramework.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.Helpers.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.WebPages.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.Razor.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\CRM.Core.pdb
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\CRM.Enum.pdb
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\EntityFramework.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.Helpers.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.WebPages.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.Razor.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs79.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs80.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs81.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\EPPlus.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\VIETLIKE.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.Mvc.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.Optimization.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.Owin.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Owin.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.Practices.Unity.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\WebActivatorEx.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.Owin.Security.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Humanizer.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.WebPages.Razor.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\EPPlus.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\VIETLIKE.pdb
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.Mvc.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.Optimization.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.Owin.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.Practices.Unity.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.Owin.Security.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Humanizer.pdb
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Humanizer.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.WebPages.Razor.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\af\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\ar\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\bg\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\bn-BD\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\cs\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\da\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\de\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\el\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\es\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\fa\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\fi-FI\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\fr\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\fr-BE\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\he\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\hr\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\hu\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\id\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\it\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\ja\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\nb\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\nb-NO\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\nl\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\pl\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\pt\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\ro\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\ru\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\sk\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\sl\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\sr\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\sr-Latn\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\sv\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\tr\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\uk\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\uz-Latn-UZ\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\vi\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\zh-CN\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\zh-Hans\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\zh-Hant\Humanizer.resources.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs82.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs83.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs84.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs85.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs86.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs861.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs87.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs88.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs89.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs90.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs91.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs92.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs93.resources
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs94.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\CRM.Infrastructure.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\CRM.Infrastructure.pdb
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\CRM.Core.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\CRM.Enum.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\EntityFramework.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\EPPlus.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\CRM.Core.pdb
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\CRM.Enum.pdb
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\EntityFramework.xml
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\EPPlus.xml
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.csprojResolveAssemblyReference.cache
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.Initial.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs1.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs2.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs3.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs4.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs5.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs6.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs7.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs8.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs9.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs10.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs11.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs12.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs13.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs14.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs15.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs16.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs17.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs18.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs19.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs20.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs21.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs22.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs23.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs24.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs25.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs26.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs27.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs28.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs29.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs30.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs31.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs32.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs33.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs34.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs35.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs36.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs37.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs38.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs39.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs40.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs41.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs42.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs43.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs44.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs45.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs46.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs47.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs48.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs49.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs50.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs51.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs52.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs53.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs54.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs55.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs56.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs57.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs58.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs59.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs60.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs61.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs62.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs63.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs631.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs64.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs65.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs651.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs66.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs67.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs68.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs69.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs70.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs71.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs72.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs73.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs731.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs74.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs76.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs77.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs78.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs79.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs80.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs81.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs82.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs83.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs84.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs85.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs86.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs861.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs87.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs88.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs89.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs90.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs91.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs92.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs93.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs94.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.csproj.GenerateResource.Cache
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.pdb
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs95.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs96.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs97.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs98.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs99.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs991.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs100.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs101.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs102.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.Helpers.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.WebPages.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.Razor.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.Helpers.xml
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.WebPages.xml
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.Razor.xml
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs103.resources
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Dapper.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Infrastructure\bin\Debug\Dapper.xml
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\CRM.Infrastructure.dll
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\CRM.Infrastructure.pdb
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\CRM.Core.dll
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\CRM.Enum.dll
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\Dapper.dll
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\EntityFramework.dll
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\EPPlus.dll
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\CRM.Core.pdb
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\CRM.Enum.pdb
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\Dapper.xml
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\EntityFramework.xml
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\EPPlus.xml
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.csprojResolveAssemblyReference.cache
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.Initial.resources
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs103.resources
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.csproj.GenerateResource.Cache
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.dll
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.pdb
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs104.resources
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs105.resources
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs106.resources
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\System.Web.WebPages.dll
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\System.Web.Razor.dll
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\System.Web.Helpers.xml
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\System.Web.WebPages.xml
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\System.Web.Razor.xml
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs107.resources
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\CRM.Infrastructure.dll
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\CRM.Infrastructure.pdb
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\CRM.Core.dll
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\CRM.Enum.dll
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\Dapper.dll
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\EntityFramework.dll
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\EPPlus.dll
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\System.Web.WebPages.dll
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\System.Web.Razor.dll
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\CRM.Core.pdb
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\CRM.Enum.pdb
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\Dapper.xml
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\EntityFramework.xml
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\EPPlus.xml
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\System.Web.Helpers.xml
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\System.Web.WebPages.xml
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\System.Web.Razor.xml
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.csprojResolveAssemblyReference.cache
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.Initial.resources
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs103.resources
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs104.resources
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs105.resources
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs106.resources
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs107.resources
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.csproj.GenerateResource.Cache
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.dll
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.pdb
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs108.resources
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs109.resources
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs110.resources
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs111.resources
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs112.resources
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs113.resources
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs114.resources
+D:\WORK\TOUR\VIETMY\CRM.Infrastructure\obj\Debug\CRM.Infrastructure.Migrations.vs115.resources

@@ -1,0 +1,34 @@
+﻿@using DayPilot.Web.Mvc;
+@using DayPilot.Web.Mvc.Events.Scheduler;
+@using DayPilot.Web.Mvc.Enums.Scheduler;
+
+@Html.DayPilotScheduler("dps", new DayPilotSchedulerConfig
+{
+    BackendUrl = Url.Content("~/TourGuideSchedule/Backend"),
+    EventResizeHandling = EventResizeHandlingType.CallBack,
+    EventMoveHandling = EventMoveHandlingType.CallBack,
+    EventDeleteHandling = EventDeleteHandlingType.CallBack,
+    CellGroupBy = DayPilot.Web.Mvc.Enums.GroupBy.Month,
+    CellDuration = 1440,
+    Days = 365,
+    StartDate = new DateTime(DateTime.Today.Year, 1, 1),
+    EventClickHandling = EventClickHandlingType.JavaScript,
+    EventClickJavaScript = "ask(e);",
+    TimeRangeSelectedHandling = TimeRangeSelectedHandlingType.JavaScript,
+    TimeRangeSelectedJavaScript = "create(start, end, resource)",
+    CellWidth = 60,
+    EventHeight = 40,
+    AutoScroll = AutoScrollType.Always,
+    ContextMenu = "menu",
+    Theme = "scheduler_8",
+})
+
+@Html.DayPilotMenu("menu", new DayPilotMenuConfig
+{
+    CssClassPrefix = "menu_default",
+    Items = new DayPilot.Web.Mvc.MenuItemCollection
+        {
+        new DayPilot.Web.Mvc.MenuItem { Text = "Open", Action = DayPilot.Web.Mvc.Enums.MenuItemAction.JavaScript, JavaScript = "editEvent(e.value());"},
+        new DayPilot.Web.Mvc.MenuItem { Text = "Delete", Action = DayPilot.Web.Mvc.Enums.MenuItemAction.CallBack, Command = "Delete"}
+        }
+})       

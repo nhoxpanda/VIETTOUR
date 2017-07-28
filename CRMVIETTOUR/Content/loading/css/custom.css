@@ -1,0 +1,98 @@
+.color-fill-icon {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border: 1px solid #000;
+    background-color: #fff;
+    margin: 2px;
+}
+
+.dropdown-color-fill-icon {
+    position: relative;
+    float: left;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.well .markup {
+    background: #fff;
+    color: #777;
+    position: relative;
+    padding: 45px 15px 15px;
+    margin: 15px 0 0 0;
+    background-color: #fff;
+    border-radius: 0 0 4px 4px;
+    box-shadow: none;
+}
+
+    .well .markup::after {
+        content: "Example";
+        position: absolute;
+        top: 15px;
+        left: 15px;
+        font-size: 12px;
+        font-weight: bold;
+        color: #bbb;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+
+#map {
+    height: 400px;
+    max-width: 700px;
+}
+
+.clsNotice {
+    padding: 9px 13px;
+    background-color: #bd2323;
+    color: #fff;
+    border: 1px solid #bd2323;
+    border-radius: 20px !IMPORTANT;
+    font-weight: bold;
+}
+
+body > div.container {
+    padding: 150px 0 0 50px;
+    position: relative;
+}
+
+div.container iframe {
+    position: absolute;
+    top: 75px;
+    right: 0;
+}
+
+h2 {
+    margin-top: 40px;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+p.spacer {
+    height: 5px;
+    overflow: hidden;
+}
+
+footer {
+    padding: 20px 0;
+    position: relative;
+}
+
+    footer iframe {
+        position: absolute;
+        top: 20px;
+        right: 0;
+    }
+
+table td:first-child {
+    width: 125px;
+}
+
+li strong {
+    color: #111;
+}
+
+.btn.btn-large {
+    float: right;
+    margin-top: 40px;
+}

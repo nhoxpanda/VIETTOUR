@@ -1,0 +1,39 @@
+﻿@using CRMVIETTOUR.Utilities
+
+<div class="page-sidebar-wrapper">
+    <div class="page-sidebar navbar-collapse collapse">
+        <ul class="page-sidebar-menu" data-keep-expanded="false" data-auto-scroll="true" data-slide-speed="200">
+            @foreach (var item in LoadData.ModuleList())
+            {
+                <li class="nav-item">
+                    <a href="javascript:;" class="nav-link nav-toggle">
+                        <i class="fa fa-@item.Note"></i>
+                        <span class="title" style="text-transform: uppercase">@item.Name</span>
+                        <span class="arrow"></span>
+                    </a>
+                    <ul class="sub-menu">
+                        @if (item.Id == 1)
+                        {
+                            <li class="nav-item">
+                                <a href='@Url.Action("AddNew", "CustomersManage")' class="nav-link">
+                                    <span class="title">Thêm mới khách hàng</span>
+                                </a>
+                            </li>
+                        }
+                        @foreach (var child in LoadData.FormByModuleList(item.Id))
+                        {
+                            if (clsPermission.AccessData(child.Id) == false)
+                            {
+                                <li class="nav-item">
+                                    <a href='@Url.Action(child.Action,child.Controller)' class="nav-link">
+                                        <span class="title">@child.Name</span>
+                                    </a>
+                                </li>
+                            }
+                        }
+                    </ul>
+                </li>
+            }
+        </ul>
+    </div>
+</div>

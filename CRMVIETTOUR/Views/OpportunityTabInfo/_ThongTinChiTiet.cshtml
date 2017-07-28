@@ -1,0 +1,25 @@
+﻿@using CRM.Core
+@using CRMVIETTOUR.Models
+@using CRMVIETTOUR.Utilities
+@model tbl_Opportunity
+
+@if (Model != null)
+{
+    <div class="row">
+        <div class="col-md-6">
+            <p><b>Code:</b> @Model.Code</p>
+            <p><b>Tên:</b> @Model.Name</p>
+            <p><b>Tình trạng:</b> @(Model.StatusId != null ? Model.tbl_DictionaryStatus.Name : "")</p>
+            <p><b>Nhóm:</b> @(Model.GroupId != null ? Model.tbl_DictionaryGroup.Name : "")</p>
+            <p><b>Hình thức tiếp xúc:</b> @(Model.FormContactId != null ? Model.tbl_DictionaryFormContact.Name : "")</p>
+            <p><b>Ghi chú:</b> @Html.Raw(Model.Note)</p>
+        </div>
+
+        <div class="col-md-6">
+            <p><b>Khách hàng:</b> @(Model.CustomerId != null ? Model.tbl_Customer.FullName : "")</p>
+            <p><b>Điện thoại:</b> @(Model.CustomerId != null ? Model.tbl_Customer.Phone + " - " + Model.tbl_Customer.MobilePhone : "")</p>
+            <p><b>Tiềm năng:</b> @Model.TiemNang%</p>
+            <p><b>Người tạo:</b> @Model.tbl_Staff.FullName</p>
+        </div>
+    </div>
+}

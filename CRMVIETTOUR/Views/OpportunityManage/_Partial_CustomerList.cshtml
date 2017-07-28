@@ -1,0 +1,12 @@
+﻿@using CRM.Core
+@using CRMVIETTOUR.Utilities
+@model IEnumerable<tbl_Customer>
+
+<select class="form-control" id="insert-customer" name="CustomerId" style="width: 100%" required>
+    <option>-- Chọn khách hàng --</option>
+    @foreach (var item in Model)
+    {
+        <option value="@item.Id">@item.FullName</option>
+    }
+</select>
+

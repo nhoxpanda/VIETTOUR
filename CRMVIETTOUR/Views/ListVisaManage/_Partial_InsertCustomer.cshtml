@@ -1,0 +1,273 @@
+﻿@using CRMVIETTOUR.Models
+@using CRMVIETTOUR.Utilities
+@model CustomerViewModel
+
+<div class="modal fade  bs-modal-lg" id="modal-insert-customer" role="document" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+            @using (Ajax.BeginForm("CreateCustomer", "ListVisaManage", null, new AjaxOptions { OnSuccess = "OnSuccessVisa", OnFailure = "OnFailureVisa", UpdateTargetId = "listNewCustomer" }))
+            {
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                    <h4 class="modal-title">Khách hàng - Doanh nghiệp</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="form-horizontal">
+                        <div class="tabbable-custom" id="tab-insert-customer">
+                            <ul class="nav nav-tabs">
+                                <li class="active">
+                                    <a href="#thongtinchung" data-toggle="tab">Thông tin chung</a>
+                                </li>
+                                <li>
+                                    <a href="#tab-visa" data-toggle="tab">CMND - Passport</a>
+                                </li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane active" id="thongtinchung" style="max-height: 900px; overflow: hidden;">
+                                    <div class="row">
+                                        <div class="col-md-12" style="border: 1px solid #ccc; margin: 15px 0; padding: 15px; padding-bottom: 0;">
+                                            <div class="form-group">
+                                                <label class="control-label col-lg-2 col-md-2">Mã khách hàng</label>
+                                                <div class="col-lg-10 col-md-10">
+                                                    <input type="text" name="SinglePersonal.Code" id="SinglePersonal.Code" value="@GenerateCode.CustomerCode()" class="form-control" readonly="readonly" />
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="control-label col-lg-2 col-md-2">
+                                                    Công ty
+                                                    <input type="checkbox" name="check-customer-company" id="check-customer-company" value="true" />
+                                                </label>
+                                                <div class="col-lg-10 col-md-10">
+                                                    <select class="form-control" id="customer-company" disabled style="width: 100%" name="SinglePersonal.ParentId">
+                                                        @foreach (var item in LoadData.CompanyList())
+                                                        {
+                                                            <option value="@item.Id">@item.FullName</option>
+                                                        }
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="control-label col-lg-2 col-md-2">Họ tên</label>
+                                                <div class="col-lg-2 col-md-2">
+                                                    <select class="form-control" id="customer-quydanh" style="width: 100%" name="SinglePersonal.NameTypeId">
+                                                        @foreach (var item in LoadData.NameTypeList())
+                                                        {
+                                                            <option value="@item.Id">@item.Name</option>
+                                                        }
+                                                    </select>
+                                                </div>
+                                                <div class="col-lg-8 col-md-8">
+                                                    <input type="hidden" name="SinglePersonal.FullName" id="insert-personal-name" />
+                                                    <select id="insert-detail-personal" style="width: 100%" required>
+                                                        <option value="0">-- Chọn tên khách hàng cá nhân --</option>
+                                                        @foreach (var item in LoadData.PersonalList())
+                                                        {
+                                                            <option value="@item.FullName">[@item.Code] @item.FullName</option>
+                                                        }
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="control-label col-lg-2 col-md-2">Địa chỉ</label>
+                                                <div class="col-lg-4 col-md-4">
+                                                    @Html.TextBoxFor(model => model.SinglePersonal.Address, new { @class = "form-control", placeholder = "Số nhà" })
+                                                    <input type="hidden" name="SinglePersonal.TagsId" />
+                                                </div>
+                                                <div class="col-lg-2 col-md-2">
+                                                    <select class="form-control" style="width: 100%" id="insert-province-personal" name="SinglePersonal.ProvinceId">
+                                                        @foreach (var item in LoadData.TinhThanh())
+                                                        {
+                                                            <option value="@item.Id">@item.Tags</option>
+                                                        }
+                                                    </select>
+                                                </div>
+                                                <div class="col-lg-2 col-md-2">
+                                                    <select class="form-control" style="width: 100%" id="insert-district-personal" name="SinglePersonal.districtId"></select>
+                                                </div>
+                                                <div class="col-lg-2 col-md-2">
+                                                    <select class="form-control" style="width: 100%" id="insert-ward-personal" name="SinglePersonal.WardId"></select>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-horizontal">
+                                                <div class="form-group">
+                                                    <label class="control-label col-lg-3 col-md-3">Di động</label>
+                                                    <div class="col-lg-9 col-md-9">
+                                                        @Html.TextBoxFor(model => model.SinglePersonal.MobilePhone, new { @class = "form-control", id = "didong-canhan" })
+                                                    </div>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label class="control-label col-lg-3 col-md-3">Điện thoại</label>
+                                                    <div class="col-lg-9 col-md-9">
+                                                        @Html.TextBoxFor(model => model.SinglePersonal.Phone, new { @class = "form-control", id = "dienthoai-canhan" })
+                                                    </div>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label class="control-label col-lg-3 col-md-3">Email</label>
+                                                    <div class="col-lg-9 col-md-9">
+                                                        @Html.TextBoxFor(model => model.SinglePersonal.PersonalEmail, new { @class = "form-control", id = "email-canhan" })
+                                                    </div>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label class="control-label col-lg-3 col-md-3">Skype</label>
+                                                    <div class="col-lg-9 col-md-9">
+                                                        @Html.TextBoxFor(model => model.SinglePersonal.Skype, new { @class = "form-control" })
+                                                    </div>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label class="control-label col-lg-3 col-md-3">Ngày sinh</label>
+                                                    <div class="col-lg-9 col-md-9">
+                                                        <input type="date" class="form-control" id="ngaysinh" name="SinglePersonal.Birthday" />
+                                                    </div>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label class="control-label col-lg-3 col-md-3">Chức vụ</label>
+                                                    <div class="col-lg-9 col-md-9">
+                                                        @Html.TextBoxFor(model => model.SinglePersonal.Position, new { @class = "form-control" })
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-horizontal">
+                                                <div class="form-group">
+                                                    <label class="control-label col-lg-3 col-md-3">Ngành nghề</label>
+                                                    <div class="col-lg-9 col-md-9">
+                                                        <select class="form-control" style="width: 100%" id="customer-nghenghiep-personal" name="SinglePersonal.CareerId">
+                                                            @foreach (var item in LoadData.CareerList())
+                                                            {
+                                                                <option value="@item.Id">@item.Name</option>
+                                                            }
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label class="control-label col-lg-3 col-md-3">Nhóm KH</label>
+                                                    <div class="col-lg-9 col-md-9">
+                                                        <select class="form-control" style="width: 100%" id="customer-nhomkh-personal" name="SinglePersonal.CustomerGroupId">
+                                                            @foreach (var item in LoadData.CustomerGroupList())
+                                                            {
+                                                                <option value="@item.Id">@item.Name</option>
+                                                            }
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label class="control-label col-lg-3 col-md-3">Nguồn đến</label>
+                                                    <div class="col-lg-9 col-md-9">
+                                                        <select class="form-control" style="width: 100%" id="customer-nguonden-personal" name="SinglePersonal.OriginId">
+                                                            @foreach (var item in LoadData.OriginList())
+                                                            {
+                                                                <option value="@item.Id">@item.Name</option>
+                                                            }
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label class="control-label col-lg-3 col-md-3">Số tài khoản</label>
+                                                    <div class="col-lg-9 col-md-9">
+                                                        @Html.TextBoxFor(model => model.SinglePersonal.AccountNumber, new { @class = "form-control" })
+                                                    </div>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label class="control-label col-lg-3 col-md-3">Mở tại NH</label>
+                                                    <div class="col-lg-9 col-md-9">
+                                                        @Html.TextBoxFor(model => model.SinglePersonal.Bank, new { @class = "form-control" })
+                                                    </div>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label class="control-label col-lg-3 col-md-3">Phòng ban</label>
+                                                    <div class="col-lg-9 col-md-9">
+                                                        @Html.TextBoxFor(model => model.SinglePersonal.Department, new { @class = "form-control" })
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <div class="form-horizontal">
+                                                <div class="form-group">
+                                                    <label class="control-label col-lg-12 col-md-12" style="text-align: left">Ghi chú</label>
+                                                    <div class="col-lg-12 col-md-12">
+                                                        @Html.TextAreaFor(model => model.SinglePersonal.Note, new { @class = "form-control", id = "insert-note-personal" })
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane" id="tab-visa" style="max-height: 900px; overflow: hidden;">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <label><b>CMND</b></label>
+                                            <div class="form-group">
+                                                <label class="control-label col-lg-4 col-md-4">Số CMND</label>
+                                                <div class="col-lg-8 col-md-8">
+                                                    @Html.TextBoxFor(model => model.IdentityCard, new { @class = "form-control", id = "so-cmnd" })
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="control-label col-lg-4 col-md-4">Ngày cấp</label>
+                                                <div class="col-lg-8 col-md-8">
+                                                    <input type="date" class="form-control" id="insert-ngaycap" name="CreatedDateIdentity">
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="control-label col-lg-4 col-md-4">Nơi cấp</label>
+                                                <div class="col-lg-8 col-md-8">
+                                                    <select class="form-control" style="width: 100%" id="country-insert-cmnd" name="IdentityTagId">
+                                                        @foreach (var item in LoadData.DropdownlistCountry())
+                                                        {
+                                                            <option value="@item.Id">@item.Tags</option>
+                                                        }
+                                                    </select>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <label><b>Passport</b></label>
+                                            <div class="form-group">
+                                                <label class="control-label col-lg-4 col-md-4">Số passport</label>
+                                                <div class="col-lg-8 col-md-8">
+                                                    @Html.TextBoxFor(model => model.PassportCard, new { @class = "form-control", id = "so-passport" })
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="control-label col-lg-4 col-md-4">Ngày cấp</label>
+                                                <div class="col-lg-8 col-md-8">
+                                                    <input type="date" class="form-control" id="insert-ngaycap-passport" name="CreatedDatePassport">
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="control-label col-lg-4 col-md-4">Ngày hết hạn</label>
+                                                <div class="col-lg-8 col-md-8">
+                                                    <input type="date" class="form-control" id="insert-ngayhethan-passport" name="ExpiredDatePassport">
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="control-label col-lg-4 col-md-4">Nơi cấp</label>
+                                                <div class="col-lg-8 col-md-8">
+                                                    <select class="form-control" style="width: 100%" id="country-insert-passport" name="PassportTagId">
+                                                        @foreach (var item in LoadData.DropdownlistCountry())
+                                                        {
+                                                            <option value="@item.Id">@item.Tags</option>
+                                                        }
+                                                    </select>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div align="center" style="margin-bottom: 20px">
+                    <button type="submit" class="btn blue" name="btnLuu">Lưu</button>
+                    <button type="button" class="btn default" data-dismiss="modal">Hủy</button>
+                </div>
+            </div>
+        }
+    </div>
+</div>

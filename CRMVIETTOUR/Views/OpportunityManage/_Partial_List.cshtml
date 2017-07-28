@@ -1,0 +1,55 @@
+﻿@using CRM.Core
+@using CRMVIETTOUR.Utilities
+@model IEnumerable<tbl_Opportunity>
+
+<div class="table-responsive table-custom-format" id="tableDictionary-Wrapper">
+    <table class="table table-bordered table-hover dataTable" id="tableDictionary">
+        <thead>
+            <tr>
+                <td class="width24"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th class="table-checkbox">
+                    <input type="checkbox" id="allcb" name="allcb" onclick="SelectAllCb()" />
+                </th>
+                <th>CODE</th>
+                <th>Tên cơ hội</th>
+                <th>Phân loại</th>
+                <th>Tình trạng</th>
+                <th>Hình thức tiếp xúc</th>
+                <th>Khách hàng</th>
+                <th>Tiềm năng</th>
+                <th>Nhân viên</th>
+                <th>Ngày nhập</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="odd gradeX">
+                    <td class="width24">
+                        <input type="checkbox" value="@item.Id" id="cb@(item.Id)" class="cbItem" name="cb" onclick="CheckSelect()" />
+                    </td>
+                    <td>@item.Code</td>
+                    <td>@item.Name</td>
+                    <td>@(item.GroupId != null ? item.tbl_DictionaryGroup.Name : "")</td>
+                    <td style="@(item.StatusId != null ? "color: #fff; background-color: " + item.tbl_DictionaryStatus.Note + "" : "")">@(item.StatusId != null ? item.tbl_DictionaryStatus.Name : "")</td>
+                    <td>@(item.FormContactId != null ? item.tbl_DictionaryFormContact.Name : "")</td>
+                    <td>@(item.CustomerId != null ? item.tbl_Customer.FullName : "")</td>
+                    <td>@item.TiemNang%</td>
+                    <td>@item.tbl_Staff.FullName</td>
+                    <td>@string.Format("{0:dd-MM-yyyy}", item.CreatedDate)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

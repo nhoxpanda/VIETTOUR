@@ -1,0 +1,39 @@
+﻿@using CRM.Core
+@model IEnumerable<tbl_CustomerVisa>
+
+<div class="tab-pane page-quick-sidebar-alerts active" id="quick_sidebar_tab_2" style="max-height: 730px">
+    <div class="page-quick-sidebar-alerts-list">
+        <ul class="feeds list-items">
+            @foreach (var item in Model)
+            {
+                <li style="cursor: pointer">
+                    <div class="col1">
+                        <div class="cont">
+                            <div class="cont-col1">
+                                <div class="label label-sm label-info">
+                                    <i class="fa fa-info"></i>
+                                </div>
+                            </div>
+                            <div class="cont-col2">
+                                <div class="desc">
+                                    <i class="fa fa-user"></i>&nbsp;@(item.tbl_Customer != null ? item.tbl_Customer.FullName : "")
+                                    <br />
+                                    <i class="fa fa-globe"></i>&nbsp;@(item.tbl_Tags != null ? item.tbl_Tags.Tag : "")
+                                    <br />
+                                    <i class="fa fa-cc-visa"></i>&nbsp;@item.VisaNumber
+                                    <br />
+                                    <i class="fa fa-calendar"></i>&nbsp;@string.Format("{0:dd/MM/yyyy}", item.ExpiredDateVisa)
+                                    <br />
+                                    <i class="fa fa-mobile"></i>&nbsp;@(item.tbl_Customer != null ? item.tbl_Customer.MobilePhone + "-" + @item.tbl_Customer.Phone : "")
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col2">
+                        <div class="date">@string.Format("{0:dd/MM/yyyy}", item.ExpiredDateVisa) </div>
+                    </div>
+                </li>
+            }
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,114 @@
+﻿@using CRMVIETTOUR.Utilities
+@model CRM.Core.tbl_LiabilityCustomer
+
+<div class="modal fade" id="modal-insert-congnokh" role="document" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                <h4 class="modal-title">Thêm công nợ của khách hàng</h4>
+            </div>
+            @using (Ajax.BeginForm("CreateLiabilityCustomer", "TourOtherTab", null, new AjaxOptions { OnFailure = "OnFailureTourTab", OnSuccess = "OnSuccessCNKH", UpdateTargetId = "congnokh" }))
+            {
+                <div class="modal-body">
+                    <div class="form-horizontal">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="control-label col-lg-2 col-md-2">Thanh toán đợt 1</label>
+                                    <div class="col-lg-4 col-md-4">
+                                        @Html.TextBoxFor(model => model.FirstPrice, new { @class = "form-control Icndt", id = "IcnkhDot1" })
+                                    </div>
+                                    <label class="control-label col-lg-2 col-md-2">Ngày</label>
+                                    <div class="col-lg-4 col-md-4">
+                                        @Html.TextBoxFor(model => model.FirstDate, new { @class = "form-control", type = "date" })
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="control-label col-lg-2 col-md-2">Thanh toán đợt 2</label>
+                                    <div class="col-lg-4 col-md-4">
+                                        @Html.TextBoxFor(model => model.SecondPrice, new { @class = "form-control Icndt", id = "IcnkhDot2" })
+                                    </div>
+                                    <label class="control-label col-lg-1 col-md-1">Ngày</label>
+                                    <div class="col-lg-3 col-md-3">
+                                        @Html.TextBoxFor(model => model.SecondDate, new { @class = "form-control", type = "date" })
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="control-label col-lg-2 col-md-2">Tổng thu</label>
+                                    <div class="col-lg-6 col-md-6">
+                                        @Html.TextBoxFor(model => model.TotalContract, new { @class = "form-control", id = "IcnkhTong" })
+                                    </div>
+                                    <div class="col-lg-2 col-md-2">
+                                        <select class="form-control" name="CurrencyId" id="insert-currency-congnokh" style="width: 100%">
+                                            @foreach (var item in LoadData.CurrencyList())
+                                            {
+                                                <option value="@item.Id">@item.Name</option>
+                                            }
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="control-label col-lg-2 col-md-2">Ghi chú đã chi visa</label>
+                                    <div class="col-lg-8 col-md-8">
+                                        @Html.TextBoxFor(model => model.TotalVisa, new { @class = "form-control" })
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="control-label col-lg-2 col-md-2">Chi hoàn trả khách</label>
+                                    <div class="col-lg-8 col-md-8">
+                                        @Html.TextBoxFor(model => model.TotalReturn, new { @class = "form-control" })
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="control-label col-lg-2 col-md-2">Ghi chú thu full</label>
+                                    <div class="col-lg-8 col-md-8">
+                                        @Html.TextAreaFor(model => model.FullNote, new { @class = "form-control" })
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="control-label col-lg-2 col-md-2">
+                                        Thu hợp đồng
+                                        @Html.CheckBoxFor(model => model.IsContract)
+                                    </label>
+                                    <label class="control-label col-lg-2 col-md-2">
+                                        Lấy hóa đơn
+                                        @Html.CheckBoxFor(model => model.IsBill)
+                                    </label>
+                                    <label class="control-label col-lg-2 col-md-2">
+                                        Lưu PP-VS
+                                        @Html.CheckBoxFor(model => model.IsPPVS)
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="control-label col-lg-2 col-md-2">Chi tiết thu</label>
+                                    <div class="col-lg-8 col-md-8">
+                                        @Html.TextAreaFor(model => model.Note, new { @class = "form-control", id = "insert-note-liabilitycustomer" })
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div align="center" style="margin-bottom: 20px">
+                    <button type="submit" class="btn blue">Lưu</button>
+                    <button type="button" class="btn default" data-dismiss="modal">Đóng</button>
+                </div>
+            }
+        </div>
+    </div>
+</div>

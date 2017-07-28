@@ -1,0 +1,191 @@
+﻿@using CRMVIETTOUR.Models
+@model ScheduleModel
+@{
+    ViewBag.Title = "Lịch hướng dẫn viên";
+    //string jsSchedule = ViewBag.jsonString;
+}
+<link href="~/Scripts/schedule/css/style.css" type="text/css" rel="stylesheet" />
+<link href="http://cdnjs.cloudflare.com/ajax/libs/prettify/r298/prettify.min.css" rel="stylesheet" type="text/css">
+<div class="page-content">
+    <!-- BEGIN PAGE HEAD-->
+    <div class="page-head">
+        <!-- BEGIN PAGE TITLE -->
+        <div class="page-title">
+            <h1>LỊCH HƯỚNG DẪN VIÊN</h1>
+        </div>
+        <!-- END PAGE TITLE -->
+    </div>
+    <!-- END PAGE HEAD-->
+    <!-- BEGIN PAGE BREADCRUMB -->
+    <ul class="page-breadcrumb breadcrumb">
+        <li>
+            <a href="/">Trang chủ</a>
+            <i class="fa fa-circle"></i>
+        </li>
+        @*<li>
+                <span class="active">Page Layouts</span>
+            </li>*@
+    </ul>
+    <!-- END PAGE BREADCRUMB -->
+    <!-- BEGIN PAGE BASE CONTENT -->
+    <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="portlet light bordered">
+                <div class="portlet-body">
+                    <span style="font-size:18px;">Tìm kiếm lịch hướng dẫn viên</span>
+                    <div class="form-horizontal">
+                        <div class="row">
+                            
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="control-label col-lg-2 col-md-2">Chọn tháng</label>
+                                    <div class="col-lg-4 col-md-4">
+                                        @*<input class="form-control" type="date" id="fromDateSearch"/>*@
+                                        <select class="form-control" id="selectThang">
+                                            <option value="0">--- Chọn tháng ---</option>
+                                            <option value="1">Tháng 1</option>
+                                            <option value="2">Tháng 2</option>
+                                            <option value="3">Tháng 3</option>
+                                            <option value="4">Tháng 4</option>
+                                            <option value="5">Tháng 5</option>
+                                            <option value="6">Tháng 6</option>
+                                            <option value="7">Tháng 7</option>
+                                            <option value="8">Tháng 8</option>
+                                            <option value="9">Tháng 9</option>
+                                            <option value="10">Tháng 10</option>
+                                            <option value="11">Tháng 11</option>
+                                            <option value="12">Tháng 12</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="control-label col-lg-2 col-md-2">Chọn năm</label>
+                                    <div class="col-lg-4 col-md-4">
+                                        @*<input class="form-control" id="inputNam" />*@
+                                        <select class="form-control" id="selectNam">
+                                            <option value="0">--- Chọn năm ---</option>
+                                           @{
+                                               var nowYear = DateTime.Now.Year;
+                                               var year10ago = nowYear - 5;
+                                               for (int i = 0; i < 10; i++)
+                                               {
+                                                <option value="@(year10ago+i)">@(year10ago+i)</option>
+                                               }
+                                        }
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="control-label col-lg-2 col-md-2"></label>
+                                    <div class="col-lg-3 col-md-3">
+                                        <input class="btn blue" value="Tìm" id="searchGuider"/>
+                                        <br />
+                                        <span id="ErrorSearch" style="color:red;"></span>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+                        <span id="spanTitle" style="font-size:18px;">Lịch hướng dẫn viên tháng <span style="color:red">@DateTime.Now.Month</span>/<span style="color:red">@DateTime.Now.Year</span>: <span id="soluong"></span></span>
+                        <span id="spanTitle2" class="hidden" style="font-size:18px;">Lịch hướng dẫn viên <span id="yearormonth"></span> <span id="spanFrom" style="color:red"></span><span id="spanTo" style="color:red"></span>: <span id="soluong1"></span></span>
+                        <div class="gantt"></div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section scripts{
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/prettify/r298/prettify.min.js"></script>
+    <script src="~/Scripts/schedule/js/jquery.fn.gantt.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#selectThang").select2();
+        $("#selectNam").select2();
+        $.ajax({
+            url: "/TourGuideSchedule/getListGuider",
+            contentType: "application/json; charset=utf-8",
+            type: "GET",
+            async: false,
+            success: function (data) {
+                var arr = JSON.parse(data.jsonString);
+                $(".gantt").gantt({
+                    source: arr,
+                    navigate: "scroll",
+                    scale: "days",
+                    maxScale: "days",
+                    minScale: "days",
+                    itemsPerPage: 30,
+                    useCookie: false
+                });
+                if (data.count > 0) {
+                    $("#soluong").text("Tìm thấy " + data.count + " kết quả");
+                }
+                else {
+                    $("#soluong").text("Không tìm thấy kết quả");
+                }
+            }
+        });
+
+        //getListGuiderFunc(temp);
+    });
+    $("#searchGuider").on("click", function () {
+
+        var _thang = Number($('#selectThang option:selected').val());
+        var _nam = Number($('#selectNam option:selected').val());
+        if (_thang == 0 && _nam == 0) {
+            $("#ErrorSearch").text("Vui lòng chọn năm hoặc tháng"); 
+        }
+        else {
+            $("#ErrorSearch").text("");
+            $.ajax({
+                url: "/TourGuideSchedule/getListGuiderFromInput",
+                contentType: "application/json; charset=utf-8",
+                data: { _thang: _thang, _nam: _nam },
+                type: "GET",
+                async: false,
+                success: function (data) {
+                    var arr = JSON.parse(data.jsonString);
+                    $(".gantt").gantt({
+                        source: arr,
+                        navigate: "scroll",
+                        scale: "days",
+                        maxScale: "days",
+                        minScale: "days",
+                        itemsPerPage: 30,
+                        useCookie: false
+                    });
+                    $("#spanFrom").text(_thang+"/");
+                    $("#spanTo").text(data.nam);
+                    $("#spanTitle2").removeClass("hidden");
+                    $("#spanTitle").addClass("hidden");
+
+                    if (data.count > 0) {
+                        $("#soluong1").text("Tìm thấy " + data.count + " kết quả");
+                    }
+                    else {
+                        $("#soluong1").text("Không tìm thấy kết quả");
+                    }
+                    if (_thang == 0) {
+                        $("#spanFrom").text("");
+                        $("#yearormonth").text(" năm ");
+                    }
+                    else {
+                        $("#yearormonth").text(" tháng ");
+                    }
+                }
+            });
+        }
+        
+    });
+</script>
+
+}
+

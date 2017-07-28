@@ -1,0 +1,64 @@
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Core\bin\Debug\CRM.Core.dll.config
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Core\bin\Debug\CRM.Core.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Core\bin\Debug\CRM.Core.pdb
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Core\bin\Debug\CRM.Enum.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Core\bin\Debug\EntityFramework.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Core\bin\Debug\EntityFramework.SqlServer.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Core\bin\Debug\Newtonsoft.Json.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Core\bin\Debug\CRM.Enum.pdb
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Core\bin\Debug\EntityFramework.xml
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Core\bin\Debug\EntityFramework.SqlServer.xml
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Core\bin\Debug\Newtonsoft.Json.xml
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Core\obj\Debug\CRM.Core.csprojResolveAssemblyReference.cache
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Core\obj\Debug\CRM.Core.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Core\obj\Debug\CRM.Core.pdb
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\obj\Debug\CRM.Core.csprojResolveAssemblyReference.cache
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\obj\Debug\CRM.Core.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\obj\Debug\CRM.Core.pdb
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\bin\Debug\CRM.Core.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\bin\Debug\CRM.Core.pdb
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\bin\Debug\CRM.Enum.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\bin\Debug\EntityFramework.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\bin\Debug\CRM.Enum.pdb
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\bin\Debug\EntityFramework.xml
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\bin\Debug\CRM.Core.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\bin\Debug\CRM.Core.pdb
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\bin\Debug\CRM.Enum.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\bin\Debug\CRM.Enum.pdb
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\obj\Debug\CRM.Core.csprojResolveAssemblyReference.cache
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\obj\Debug\CRM.Core.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Core\obj\Debug\CRM.Core.pdb
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Core\bin\Debug\CRM.Core.dll
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Core\bin\Debug\CRM.Core.pdb
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Core\bin\Debug\CRM.Enum.dll
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Core\bin\Debug\CRM.Enum.pdb
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Core\obj\Debug\CRM.Core.csprojResolveAssemblyReference.cache
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Core\obj\Debug\CRM.Core.dll
+C:\WORK\DIP VIETNAM\VIETMY\CRM.Core\obj\Debug\CRM.Core.pdb
+D:\WORK\TOUR\VIETMY\CRM.Core\bin\Debug\CRM.Core.dll
+D:\WORK\TOUR\VIETMY\CRM.Core\bin\Debug\CRM.Core.pdb
+D:\WORK\TOUR\VIETMY\CRM.Core\bin\Debug\CRM.Enum.dll
+D:\WORK\TOUR\VIETMY\CRM.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\WORK\TOUR\VIETMY\CRM.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\WORK\TOUR\VIETMY\CRM.Core\bin\Debug\CRM.Enum.pdb
+D:\WORK\TOUR\VIETMY\CRM.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\WORK\TOUR\VIETMY\CRM.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\WORK\TOUR\VIETMY\CRM.Core\obj\Debug\CRM.Core.csprojResolveAssemblyReference.cache
+D:\WORK\TOUR\VIETMY\CRM.Core\obj\Debug\CRM.Core.dll
+D:\WORK\TOUR\VIETMY\CRM.Core\obj\Debug\CRM.Core.pdb

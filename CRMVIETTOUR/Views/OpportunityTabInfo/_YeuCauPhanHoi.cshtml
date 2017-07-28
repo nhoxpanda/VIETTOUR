@@ -1,0 +1,41 @@
+﻿@using CRM.Core
+@using CRMVIETTOUR.Models
+@using CRMVIETTOUR.Utilities
+@model IEnumerable<tbl_OpportunityRequest>
+
+@if (ViewBag.IsAdd != null && ViewBag.IsAdd)
+{<a class="btn btn-primary" onclick="createRequest()" id="btnAddYeuCau"><i class="fa fa-plus"></i>&nbsp;Thêm</a>}
+<br /><br />
+<div class="table-scrollable table-custom-format">
+    <table class="table table-striped table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Tiêu đề</th>
+                <th>Yêu cầu/phản hồi</th>
+                <th>Nhân viên</th>
+                <th>Ngày nhập</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null)
+            {
+                foreach (var item in Model)
+                {
+                    <tr class="odd gradeX">
+                        <td>
+                            @if (ViewBag.IsEdit != null && ViewBag.IsEdit)
+                            {<a style="cursor: pointer" onclick="updateRequest(@item.Id)"><i class="fa fa-pencil"></i>&nbsp;Sửa</a><br />}
+                            @if (ViewBag.IsDelete != null && ViewBag.IsDelete)
+                            {<a style="cursor: pointer" onclick="deleteRequest(@item.Id)"><i class="fa fa-trash"></i>&nbsp;Xóa</a>}
+                        </td>
+                        <td>@item.Name</td>
+                        <td>@Html.Raw(item.Request)</td>
+                        <td>@item.tbl_Staff.FullName</td>
+                        <td>@string.Format("{0:dd-MM-yyyy}", item.CreatedDate)</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

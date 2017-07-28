@@ -1,0 +1,8 @@
+﻿@model IEnumerable<CRM.Core.tbl_Customer>
+
+<select class="form-control" style="width:100%" id="select-customer" name="CustomerId">
+    @foreach (var item in Model)
+    {
+        <option value="@item.Id">@item.FullName</option>
+    }
+</select>

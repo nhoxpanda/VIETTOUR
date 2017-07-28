@@ -1,0 +1,20 @@
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Enum\bin\Debug\CRM.Enum.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Enum\bin\Debug\CRM.Enum.pdb
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Enum\obj\Debug\CRM.Enum.csprojResolveAssemblyReference.cache
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Enum\obj\Debug\CRM.Enum.dll
+E:\WORK\DIP VIETNAM\CRM VIETTOURS\web_CRMViettours\Viettour\CRM.Enum\obj\Debug\CRM.Enum.pdb
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Enum\bin\Debug\CRM.Enum.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Enum\bin\Debug\CRM.Enum.pdb
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Enum\obj\Debug\CRM.Enum.csprojResolveAssemblyReference.cache
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Enum\obj\Debug\CRM.Enum.dll
+E:\WORK\DIP VIETNAM\VIETLIKE\CRM.Enum\obj\Debug\CRM.Enum.pdb
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Enum\bin\Debug\CRM.Enum.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Enum\bin\Debug\CRM.Enum.pdb
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Enum\obj\Debug\CRM.Enum.csprojResolveAssemblyReference.cache
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Enum\obj\Debug\CRM.Enum.dll
+C:\WORK\DIP VIETNAM\VIETLIKE\CRM.Enum\obj\Debug\CRM.Enum.pdb
+D:\WORK\TOUR\VIETMY\CRM.Enum\bin\Debug\CRM.Enum.dll
+D:\WORK\TOUR\VIETMY\CRM.Enum\bin\Debug\CRM.Enum.pdb
+D:\WORK\TOUR\VIETMY\CRM.Enum\obj\Debug\CRM.Enum.csprojResolveAssemblyReference.cache
+D:\WORK\TOUR\VIETMY\CRM.Enum\obj\Debug\CRM.Enum.dll
+D:\WORK\TOUR\VIETMY\CRM.Enum\obj\Debug\CRM.Enum.pdb

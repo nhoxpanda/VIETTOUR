@@ -1,0 +1,264 @@
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\obj\Debug\VIETMY.csprojResolveAssemblyReference.cache
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Antlr3.Runtime.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\CKFinder.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\CRM.Core.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\CRM.Enum.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\CRM.Infrastructure.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Dapper.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\EntityFramework.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\EntityFramework.SqlServer.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\EPPlus.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\HtmlAgilityPack.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Humanizer.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.AspNet.Identity.Core.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Owin.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Owin.Security.Cookies.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Owin.Security.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Owin.Security.Facebook.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Owin.Security.Google.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Owin.Security.OAuth.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Owin.Security.Twitter.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Practices.ServiceLocation.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Practices.Unity.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Web.Infrastructure.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Newtonsoft.Json.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Owin.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\PagedList.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\PagedList.Mvc.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\System.Web.Helpers.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\System.Web.Mvc.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\System.Web.Optimization.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\System.Web.Razor.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\System.Web.WebPages.Deployment.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\System.Web.WebPages.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\System.Web.WebPages.Razor.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\WebActivatorEx.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\WebGrease.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\CKFinder.pdb
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\CRM.Core.pdb
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\CRM.Enum.pdb
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\CRM.Infrastructure.pdb
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Dapper.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\EPPlus.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\HtmlAgilityPack.pdb
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\HtmlAgilityPack.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Humanizer.pdb
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Humanizer.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Practices.ServiceLocation.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Practices.Unity.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Newtonsoft.Json.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\PagedList.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\PagedList.Mvc.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\System.Web.Helpers.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\System.Web.Mvc.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\System.Web.Optimization.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\System.Web.Razor.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\System.Web.WebPages.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\System.Web.WebPages.Deployment.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\System.Web.WebPages.Razor.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Antlr3.Runtime.pdb
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\EntityFramework.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\EntityFramework.SqlServer.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.AspNet.Identity.Core.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Owin.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Owin.Security.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Owin.Security.Facebook.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Owin.Security.Cookies.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Owin.Security.OAuth.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Owin.Security.Google.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Owin.Security.Twitter.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\af\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\ar\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\bg\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\bn-BD\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\cs\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\da\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\de\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\el\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\es\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\fa\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\fi-FI\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\fr\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\fr-BE\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\he\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\hr\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\hu\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\id\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\it\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\ja\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\nb\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\nb-NO\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\nl\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\pl\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\pt\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\ro\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\ru\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\sk\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\sl\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\sr\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\sr-Latn\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\sv\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\tr\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\uk\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\uz-Latn-UZ\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\vi\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\zh-CN\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\zh-Hans\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\zh-Hant\Humanizer.resources.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\VIETMY.dll.config
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\VIETMY.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\bin\VIETMY.pdb
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\obj\Debug\VIETMY.dll
+C:\WORK\DIP VIETNAM\VIETMY\VIETMY\obj\Debug\VIETMY.pdb
+D:\WORK\TOUR\VIETMY\VIETMY\bin\VIETMY.dll.config
+D:\WORK\TOUR\VIETMY\VIETMY\bin\VIETMY.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\VIETMY.pdb
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Antlr3.Runtime.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\CKFinder.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\CRM.Core.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\CRM.Enum.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\CRM.Infrastructure.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Dapper.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\EntityFramework.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\EntityFramework.SqlServer.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\EPPlus.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\HtmlAgilityPack.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Humanizer.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.AspNet.Identity.Core.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Owin.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Owin.Security.Cookies.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Owin.Security.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Owin.Security.Facebook.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Owin.Security.Google.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Owin.Security.OAuth.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Owin.Security.Twitter.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Practices.ServiceLocation.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Practices.Unity.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Web.Infrastructure.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Newtonsoft.Json.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Owin.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\PagedList.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\PagedList.Mvc.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\System.Web.Helpers.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\System.Web.Mvc.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\System.Web.Optimization.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\System.Web.Razor.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\System.Web.WebPages.Deployment.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\System.Web.WebPages.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\System.Web.WebPages.Razor.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\WebActivatorEx.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\WebGrease.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\CKFinder.pdb
+D:\WORK\TOUR\VIETMY\VIETMY\bin\CRM.Core.pdb
+D:\WORK\TOUR\VIETMY\VIETMY\bin\CRM.Enum.pdb
+D:\WORK\TOUR\VIETMY\VIETMY\bin\CRM.Infrastructure.pdb
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Dapper.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\EPPlus.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\HtmlAgilityPack.pdb
+D:\WORK\TOUR\VIETMY\VIETMY\bin\HtmlAgilityPack.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Humanizer.pdb
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Humanizer.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Practices.ServiceLocation.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Practices.Unity.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Newtonsoft.Json.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\PagedList.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\PagedList.Mvc.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\System.Web.Helpers.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\System.Web.Mvc.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\System.Web.Optimization.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\System.Web.Razor.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\System.Web.WebPages.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\System.Web.WebPages.Deployment.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\System.Web.WebPages.Razor.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Antlr3.Runtime.pdb
+D:\WORK\TOUR\VIETMY\VIETMY\bin\EntityFramework.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\EntityFramework.SqlServer.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.AspNet.Identity.Core.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Owin.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Owin.Security.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Owin.Security.Facebook.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Owin.Security.Cookies.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Owin.Security.OAuth.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Owin.Security.Google.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Owin.Security.Twitter.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\WORK\TOUR\VIETMY\VIETMY\bin\af\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\ar\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\bg\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\bn-BD\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\cs\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\da\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\de\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\el\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\es\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\fa\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\fi-FI\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\fr\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\fr-BE\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\he\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\hr\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\hu\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\id\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\it\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\ja\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\nb\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\nb-NO\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\nl\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\pl\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\pt\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\ro\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\ru\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\sk\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\sl\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\sr\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\sr-Latn\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\sv\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\tr\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\uk\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\uz-Latn-UZ\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\vi\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\zh-CN\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\zh-Hans\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\bin\zh-Hant\Humanizer.resources.dll
+D:\WORK\TOUR\VIETMY\VIETMY\obj\Debug\VIETMY.csprojResolveAssemblyReference.cache
+D:\WORK\TOUR\VIETMY\VIETMY\obj\Debug\VIETMY.dll
+D:\WORK\TOUR\VIETMY\VIETMY\obj\Debug\VIETMY.pdb

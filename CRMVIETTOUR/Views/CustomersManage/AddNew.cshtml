@@ -1,0 +1,95 @@
+﻿@using CRM.Core
+@using CRMVIETTOUR.Models
+@using CRMVIETTOUR.Utilities
+
+@{
+    ViewBag.Title = "Thêm mới khách hàng";
+}
+
+<div class="page-content">
+    <!-- BEGIN PAGE HEAD-->
+    <div class="page-head">
+        <!-- BEGIN PAGE TITLE -->
+        <div class="page-title">
+            <h1>THÊM MỚI KHÁCH HÀNG</h1>
+        </div>
+        <!-- END PAGE TITLE -->
+
+    </div>
+    <!-- END PAGE HEAD-->
+    <!-- BEGIN PAGE BASE CONTENT -->
+    @using (Html.BeginForm("AddNew", "CustomersManage", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <div class="note note-info">
+            <div class="row">
+                <div class="col-md-12">
+                    <a class="btn btn-default" href="@Url.Action("AddNew", "CustomersManage")"><i class="fa fa-refresh"></i>&nbsp;Reset</a>
+                    <button type="submit" class="btn btn-danger"><i class="fa fa-save"></i>&nbsp;Lưu</button>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="portlet light bordered">
+                    <div class="portlet-body" id="data-customer">
+                        <div class="form-horizontal">
+                            <div class="tabbable-custom" id="tab-insert-customer">
+                                <ul class="nav nav-tabs">
+                                    <li class="active">
+                                        <a href="#thongtinchung" data-toggle="tab">Thông tin chung</a>
+                                    </li>
+                                    <li>
+                                        <a href="#tab-visa" data-toggle="tab">CMND - Visa - Passport</a>
+                                    </li>
+                                    <li>
+                                        <a href="#tab-other" data-toggle="tab">Công ty khác</a>
+                                    </li>
+                                </ul>
+                                <div class="tab-content">
+                                    <div class="tab-pane active" id="thongtinchung" style="max-height: 900px; overflow: hidden;">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div class="radio-list">
+                                                    <label>
+                                                        <input type="radio" name="radioCustomerType" id="rdoCompany" value="0" onclick="radCompanyClick()" />
+                                                        Doanh nghiệp
+                                                    </label>
+                                                    <label>
+                                                        <input type="radio" name="radioCustomerType" id="rdoPersonal" value="1" onclick="radPersonalClick()" checked="checked" />
+                                                        Cá nhân
+                                                    </label>
+                                                </div>
+                                            </div>
+                                            <div id="detail-company" style="display: none">
+                                                @Html.Partial("_Partial_DetailCompany")
+                                            </div>
+                                            <div id="detail-personal">
+                                                @Html.Partial("_Partial_DetailPersonal")
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane" id="tab-visa" style="max-height: 900px; overflow: hidden;">
+                                        <div class="row">
+                                            @Html.Partial("_Partial_VisaPassport")
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane" id="tab-other" style="max-height: 900px; overflow: hidden;">
+                                        <div class="row">
+                                            @Html.Partial("_Partial_DetailContact")
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+    <!-- END PAGE BASE CONTENT -->
+</div>
+
+
+@section scripts{
+    <script src="~/Scripts/controller/addcustomer.js"></script>
+}

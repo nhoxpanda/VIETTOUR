@@ -1,0 +1,248 @@
+﻿@using CRM.Core
+@using CRMVIETTOUR.Utilities
+
+@{
+    ViewBag.Title = "Quản lý Cơ hội";
+    int i = 0;
+}
+
+<div class="page-content">
+    <!-- BEGIN PAGE HEAD-->
+    <div class="page-head">
+        <!-- BEGIN PAGE TITLE -->
+        <div class="page-title">
+            <h1>DANH SÁCH CƠ HỘI</h1>
+        </div>
+        <!-- END PAGE TITLE -->
+    </div>
+    <!-- END PAGE HEAD-->
+    <!-- BEGIN PAGE BASE CONTENT -->
+    <div class="note note-info">
+        <div class="row">
+            <div class="col-md-12" style="margin-bottom: 10px">
+                <div class="row">
+                    <div class="col-md-3">
+                        <label>Kỳ báo cáo</label>
+                        <select class="form-control" id="ddlKyBaoCao" style="width: 100%" name="kybaocao">
+                            @foreach (var item in LoadData.KyBaoCaoList())
+                            {
+                                <option value="@i">@item</option>
+                                i++;
+                            }
+                        </select>
+                    </div>
+                    <div id="startEndDate">
+                        @{
+                            DateTime dateFrom = new DateTime(DateTime.Now.Year, 1, 1);
+                            DateTime dateTo = new DateTime(DateTime.Now.Year, 12, 31);
+                        }
+                        <div class="col-md-3">
+                            <label>Từ ngày</label>
+                            <input type="date" id="txtStartDate" value="@dateFrom.ToString("yyyy-MM-dd")" class="form-control" name="tungay" required />
+                        </div>
+                        <div class="col-md-3">
+                            <label>Đến ngày</label>
+                            <input type="date" id="txtEndDate" value="@dateTo.ToString("yyyy-MM-dd")" class=" form-control" name="denngay" required />
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3">
+                        Tiềm năng (%) từ: <input type="number" class="form-control" placeholder="Từ" id="txtFromPercent" min="0" max="100" value="0" />
+                    </div>
+                    <div class="col-md-3">
+                        (%) đến <input type="number" class="form-control" placeholder="đến" id="txtToPercent" min="0" max="100" value="100" />
+                    </div>
+                    <div class="col-md-3">
+                        <label>Nhóm cơ hội</label>
+                        <select class="form-control" id="ddlGroup" style="width: 100%">
+                            <option value="0">-- Tất cả --</option>
+                            @foreach (var item in LoadData.OpportunityGroupList())
+                            {
+                                <option value="@item.Id">@item.Name</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <label>Tình trạng cơ hội</label>
+                        <select class="form-control" id="ddlStatus" style="width: 100%">
+                            <option value="0">-- Tất cả --</option>
+                            @foreach (var item in LoadData.OpportunityStatusList())
+                            {
+                                <option value="@item.Id">@item.Name</option>
+                            }
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <a class="btn btn-default" href="@Url.Action("Index", "OpportunityManage")"><i class="fa fa-refresh"></i>&nbsp;Nạp</a>
+                <button id="btnSearch" class="btn btn-success"><i class="fa fa-search"></i>&nbsp;Tìm</button>
+                @if (ViewBag.IsAdd != null && ViewBag.IsAdd)
+                {<button class="btn btn-primary" id="btnAdd" href="#modal-insert-opportunity" data-toggle="modal"><i class="fa fa-plus"></i>&nbsp;Thêm</button>}
+                @if (ViewBag.IsEdit != null && ViewBag.IsEdit)
+                {<button class="btn btn-warning" id="btnEdit"><i class="fa fa-pencil"></i>&nbsp;Sửa</button>}
+                @if (ViewBag.IsDelete != null && ViewBag.IsDelete)
+                {
+                    <button class="btn btn-danger" id="btnRemove"><i class="fa fa-remove"></i>&nbsp;Xóa</button>
+                    <form action="@Url.Action("Delete", "OpportunityManage")" method="post" style="position:absolute">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" id="listItemId" name="listItemId" />
+                    </form>
+                }
+                @if (ViewBag.IsImport != null && ViewBag.IsImport)
+                {
+                    <a class="btn green" data-toggle="modal" href="#modal-import-customer"><i class="icon-action-redo"></i>&nbsp;Import</a>
+                }
+                <button type="button" class="btn btn-success" data-toggle="collapse" data-target="#demo"><i class="icon-book-open"></i>&nbsp;Ẩn/Hiện cột</button>
+            </div>
+        </div>
+    </div>
+    <div class="row collapse" id="demo">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="portlet light bordered">
+                <div class="portlet-body">
+                    <div class="row">
+                        <div class="col-md-2 col-xs-2 col-sm-2">
+                            <ul>
+                                <li><a class="toggle-vis" data-column="1" style="color: #333; font-weight: bold">CODE</a></li>
+                                <li><a class="toggle-vis" data-column="2" style="color: #333; font-weight: bold">Tên cơ hội</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-2 col-xs-2 col-sm-2">
+                            <ul>
+                                <li><a class="toggle-vis" data-column="3" style="color: #333; font-weight: bold">Phân loại</a></li>
+                                <li><a class="toggle-vis" data-column="4" style="color: #333; font-weight: bold">Tình trạng</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-2 col-xs-2 col-sm-2">
+                            <ul>
+                                <li><a class="toggle-vis" data-column="5" style="color: #333; font-weight: bold">Hình thức tiếp xúc</a></li>
+                                <li><a class="toggle-vis" data-column="6" style="color: #333; font-weight: bold">Khách hàng</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-2 col-xs-2 col-sm-2">
+                            <ul>
+                                <li><a class="toggle-vis" data-column="7" style="color: #333; font-weight: bold">Tiềm năng</a></li>
+                                <li><a class="toggle-vis" data-column="8" style="color: #333; font-weight: bold">Nhân viên</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-2 col-xs-2 col-sm-2">
+                            <ul>
+                                <li><a class="toggle-vis" data-column="9" style="color: #333; font-weight: bold">Ngày nhập</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="portlet light bordered">
+                <div class="portlet-body" id="data-opportunity">
+                    @Html.Action("_Partial_List", "OpportunityManage")
+                </div>
+            </div>
+            <div class="portlet light bordered">
+                <div class="portlet-body">
+                    <div class="tabbable-custom" id="tabbable-custom">
+                        <ul class="nav nav-tabs ">
+                            <li class="active">
+                                <a href="#thongtinchitiet" data-toggle="tab" id="tabthongtinchitiet">Thông tin cơ hội</a>
+                            </li>
+                            <li>
+                                <a href="#nhatkyxuly" data-toggle="tab" id="tabnhatkyxuly">Nhật ký xử lý</a>
+                            </li>
+                            <li>
+                                <a href="#lichhen" data-toggle="tab" id="tablichhen">Lịch hẹn</a>
+                            </li>
+                            <li>
+                                <a href="#lichsulienhe" data-toggle="tab" id="tablichsulienhe">Lịch sử liên hệ</a>
+                            </li>
+                            <li>
+                                <a href="#nhatkygiaodich" data-toggle="tab" id="tabnhatkygiaodich">Nhật ký giao dịch</a>
+                            </li>
+                            <li>
+                                <a href="#nguoilienhe" data-toggle="tab" id="tabnguoilienhe">Người liên hệ</a>
+                            </li>
+                            <li>
+                                <a href="#doithu" data-toggle="tab" id="tabdoithu">Đối thủ</a>
+                            </li>
+                            <li>
+                                <a href="#yeucau" data-toggle="tab" id="tabyeucau">Yêu cầu/phản hồi</a>
+                            </li>
+                            <li>
+                                <a href="#tailieumau" data-toggle="tab" id="tabtailieumau">Tài liệu</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content">
+                            <div class="tab-pane active" id="thongtinchitiet" data-id="thongtinchitiet">
+                                @Html.Action("_ThongTinChiTiet", "OpportunityTabInfo")
+                            </div>
+                            <div class="tab-pane" id="nhatkyxuly" data-id="nhatkyxuly">
+                                @Html.Action("_NhatKyXuLy", "OpportunityTabInfo")
+                            </div>
+                            <div class="tab-pane" id="lichsulienhe" data-id="lichsulienhe">
+                                @Html.Action("_LichSuLienHe", "OpportunityTabInfo")
+                            </div>
+                            <div class="tab-pane" id="lichhen" data-id="lichhen">
+                                @Html.Action("_LichHen", "OpportunityTabInfo")
+                            </div>
+                            <div class="tab-pane" id="nhatkygiaodich" data-id="nhatkygiaodich">
+                                @Html.Action("_NhatKyGiaoDich", "OpportunityTabInfo")
+                            </div>
+                            <div class="tab-pane" id="nguoilienhe" data-id="nguoilienhe">
+                                @Html.Action("_NguoiLienHe", "OpportunityTabInfo")
+                            </div>
+                            <div class="tab-pane" id="doithu" data-id="doithu">
+                                @Html.Action("_DoiThu", "OpportunityTabInfo")
+                            </div>
+                            <div class="tab-pane" id="yeucau" data-id="yeucau">
+                                @Html.Action("_YeuCauPhanHoi", "OpportunityTabInfo")
+                            </div>
+                            <div class="tab-pane" id="tailieumau" data-id="tailieumau">
+                                @Html.Action("_TaiLieuMau", "OpportunityTabInfo")
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- END PAGE BASE CONTENT -->
+</div>
+
+@Html.Partial("_Partial_Import")
+@Html.Partial("_Partial_InsertOpportunity", new tbl_Opportunity())
+<div id="edit-opportunity"></div>
+<!----- view file ----->
+<div id="viewfile"></div>
+<!--tab Tài Liệu Mẫu-->
+@Html.Partial("~/Views/OpportunityOtherTab/_Partial_InsertDocument.cshtml", new tbl_DocumentFile())
+<div id="info-data-document"></div>
+<!-- lịch sử liên hệ -->
+@Html.Partial("~/Views/OpportunityOtherTab/_Partial_InsertHistory.cshtml", new tbl_ContactHistory())
+<div id="info-data-history"></div>
+<!----- lịch hẹn ----->
+@Html.Partial("~/Views/OpportunityOtherTab/_Partial_InsertAppointment.cshtml", new tbl_AppointmentHistory())
+<div id="info-data-appointment"></div>
+<!----- đối thủ ----->
+@Html.Partial("~/Views/OpportunityOtherTab/_Partial_InsertCompetitor.cshtml", new tbl_Competitor())
+<div id="info-data-competitor"></div>
+<!----- người liên hệ ----->
+@Html.Partial("~/Views/OpportunityOtherTab/_Partial_InsertContact.cshtml", new tbl_CustomerContact())
+<div id="info-data-contact"></div>
+<!----- giao dịch ----->
+@Html.Partial("~/Views/OpportunityOtherTab/_Partial_InsertTransaction.cshtml", new tbl_OpportunityTransaction())
+<div id="info-data-transaction"></div>
+<!----- yêu cầu ----->
+@Html.Partial("~/Views/OpportunityOtherTab/_Partial_InsertRequest.cshtml", new tbl_OpportunityRequest())
+<div id="info-data-request"></div>
+
+@section scripts{
+    <script src="~/Content/ckeditor-basic/ckeditor.js"></script>
+    <script src="~/Scripts/controller/opportunity.js"></script>
+    <script src="~/Scripts/controller/opportunityother.js"></script>
+    <script src="~/Scripts/controller/addcustomer.js"></script>
+}
